@@ -1,5 +1,5 @@
 A full-stack web application that allows users to browse, book, and manage hotel rooms in real-time.
-Built with Spring Boot (Backend), MySQL (Database), React.js (Frontend), AWS S3 Bucket (image storage), WebSocket (real-time updates).
+Built with Spring Boot (Backend), MySQL (Database), React.js (Frontend), AWS S3 Bucket (image storage).
 
 ⚙️ Technologies Used
 
